@@ -1,6 +1,4 @@
-## Todo's app Preview [(Watch it on YouTube)](https://youtu.be/Dql1nQ73CY4)
-
-![alt text](http://res.cloudinary.com/randomstuffibuy/image/upload/c_scale,w_200/v1504442580/github/todo-mobile/todo-app-v1.0.gif)
+## Todo's app 
 
 ## Running
 
@@ -23,10 +21,3 @@
   * [react-native](https://github.com/facebook/react-native): v0.47.0
 * [Expo](https://expo.io): v20.0.0
 
-## Credits
-
-UI Inspiration: Tob Siripak [(Dribbble)](https://dribbble.com/shots/1074906-GIF-Delete-task-and-assign-task-to-your-teammate-in-action)
-
-## License
-
-Released under the [Mit License](https://opensource.org/licenses/MIT)
